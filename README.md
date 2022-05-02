@@ -1,6 +1,6 @@
 # Wordle Analysis
 
-After losing my streak in Wordle, I decided to analyze the original word list to visualize the most frequent letters in all 5 positions as well as overall.
+After losing my streak in Wordle(https://www.nytimes.com/games/wordle/index.html), I decided to analyze the original word list to visualize the most frequent letters in all 5 positions as well as overall.
 
 ## How to Run
 * In command terminal navigate to the folder where wordle.py file is located
@@ -12,8 +12,8 @@ This uses Python along with the matplotlib library for the bar plots
 ## Implementation
 
 The files consist of:
-*['wordle.py'](wordle/wordle.py)
-*['Wordle.txt'](wordle/Wordle.txt)
+* ['wordle.py'](wordle/wordle.py)
+* ['Wordle.txt'](wordle/Wordle.txt)
 
 ### ['wordle.py'](wordle/wordle.py)
 
